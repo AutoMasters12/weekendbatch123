@@ -18,4 +18,11 @@ public class NewTest1 {
   @Test
   public void f5() {
   }
+  @Test
+  public void f6() {
+  }
+  @Test
+  public void f7() {
+  }
+  
 }
